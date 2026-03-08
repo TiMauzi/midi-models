@@ -2,6 +2,7 @@
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ML: Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange.svg)](https://scikit-learn.org/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18913010.svg)](https://doi.org/10.5281/zenodo.18913010)
 
 This project features a machine learning pipeline that predicts the **composition year** of a musical work based solely on features extracted from MIDI files.
 
@@ -102,3 +103,24 @@ The simple regression model already shows a strong ability to identify the gener
 | **±50-Year Accuracy** | 59.1% |
 
 While predicting a specific year is challenging, the model correctly places nearly **60% of pieces within a one-century window**, proving that MIDI message distributions can be crucial indicators for musical analysis.
+
+
+## 💬 Citation
+
+If you want to reference this work, you may use the following BibTeX citation:
+
+```bibtex
+@misc{tim_sockel_timauzi/midi-models:_2026,
+	title = {{TiMauzi}/midi-models: {Initial} {Release}},
+	copyright = {MIT License},
+	shorttitle = {{TiMauzi}/midi-models},
+	url = {https://zenodo.org/doi/10.5281/zenodo.18913010},
+	abstract = {This release contains the first version of the proof-of-concept notebook to train a simple regression model on MIDI data. Furthermore, it contains a README.md describing the process of crawling and preprocessing the datasets.},
+	urldate = {2026-03-08},
+	publisher = {Zenodo},
+	author = {{Tim Sockel}},
+	month = mar,
+	year = {2026},
+	doi = {10.5281/ZENODO.18913010},
+}
+```
