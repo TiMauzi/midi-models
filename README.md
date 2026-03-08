@@ -6,7 +6,7 @@
 This project features a machine learning pipeline that predicts the **composition year** of a musical work based solely on features extracted from MIDI files.
 
 ## 👀 Overview
-The notebook demonstrates how to transform raw MIDI data into meaningful features to train a regression model. The workflow includes:
+The [notebook](https://github.com/TiMauzi/midi-models/blob/main/midi_to_year.ipynb) demonstrates how to transform raw MIDI data into meaningful features to train a regression model. The workflow includes:
 
 * **Data Acquisition**: Loading the [TiMauzi/imslp-midi-by-sa](https://huggingface.co/datasets/TiMauzi/imslp-midi-by-sa/) dataset from the Hugging Face Hub.
 * **Feature Engineering**: Extracting the top 15 most common MIDI message types (e.g., `note_on`, `control_change`, `set_tempo`) and calculating their frequency per piece.
