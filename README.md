@@ -1,4 +1,4 @@
-# 🎵 `midi-models`: A proof-of-concept modelling for MIDI-to-year predictions
+# 🎵 `midi-models`: A Proof-of-Concept for MIDI-based Machine Learning
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ML: Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange.svg)](https://scikit-learn.org/)
