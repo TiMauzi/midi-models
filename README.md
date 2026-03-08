@@ -114,13 +114,13 @@ If you want to reference this work, you may use the following BibTeX citation:
 	title = {{TiMauzi}/midi-models: {Initial} {Release}},
 	copyright = {MIT License},
 	shorttitle = {{TiMauzi}/midi-models},
-	url = {https://zenodo.org/doi/10.5281/zenodo.18913010},
+	url = {https://zenodo.org/doi/10.5281/zenodo.18913009},
 	abstract = {This release contains the first version of the proof-of-concept notebook to train a simple regression model on MIDI data. Furthermore, it contains a README.md describing the process of crawling and preprocessing the datasets.},
 	urldate = {2026-03-08},
 	publisher = {Zenodo},
 	author = {{Tim Sockel}},
 	month = mar,
 	year = {2026},
-	doi = {10.5281/ZENODO.18913010},
+	doi = {10.5281/ZENODO.18913009},
 }
 ```
